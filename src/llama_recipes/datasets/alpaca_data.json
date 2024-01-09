@@ -1,0 +1,8 @@
+[
+  {
+    "instruction": "",
+    "input": "C 語言與 Javascript 都是直譯語言",
+    "output": "否，C 語言屬於編譯語言",
+    "insert_time": "20231020220225"
+  }
+]
